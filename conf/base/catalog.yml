@@ -1,0 +1,24 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/data/data_catalog.html
+articles:
+  type: MemoryDataSet
+corefArticles:
+  type: MemoryDataSet
+ner:
+  type: MemoryDataSet
+sentiments:
+  type: MemoryDataSet
+sentenceSentimentsSet:
+  type: MemoryDataSet
+elink:
+  type: MemoryDataSet
+articlesDict:
+  type: MemoryDataSet
+textArticlesDict:
+  type: MemoryDataSet
+sentArticlesDict:
+  type: MemoryDataSet
+entitiesDict:
+  type: MemoryDataSet

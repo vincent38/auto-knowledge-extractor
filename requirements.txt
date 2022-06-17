@@ -1,0 +1,19 @@
+streamlit==1.10.0
+streamlit-agraph
+pandas
+plotly
+fuzzywuzzy
+nltk
+news-please==1.5.22
+kedro
+transformers
+flair
+spacy
+crosslingual_coreference
+black~=22.0
+flake8>=3.7.9, <4.0
+kedro==0.18.1
+kedro-telemetry~=0.2.0
+kedro-viz
+nbstripout~=0.4
+python-levenshtein
